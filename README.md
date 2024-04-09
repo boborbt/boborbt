@@ -1,4 +1,4 @@
-# Machine Learning Enthusiast | University of Turin
+## Machine Learning Enthusiast | University of Turin
 
 - Associate Professor, Computer Science Department
 - Researching Deep Learning & Federated Learning
